@@ -16,3 +16,5 @@ En orden descendente, son *Ío*, *Europa*, *Ganimedes* y *Calisto*.
 
 
 Este es texto adicional al de los satelites galileanos
+
+![UNOSAT Gaza Strip Comprehensive Damage Assessment - January 2024](https://unosat.org/static/unosat_filesystem/3793/UNOSAT_A3_GazaStrip_CDA_January2024_v2.png)
